@@ -11,8 +11,10 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/sahirbashir/
-   - title: github
-    url: https://www.github.com/SahirBashir
+  - title: github
+    url: https://www.github.com/SahirBashir/
+  - title: twitter
+      url: http://twitter.com/jekyllrb
 
     
 # Google webmaster tools
