@@ -36,4 +36,4 @@ markdown: kramdown
 permalink: pretty
 highlighter: rouge
 
-theme: jekyll-theme-cayman
+theme: cayman
